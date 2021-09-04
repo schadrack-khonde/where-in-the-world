@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/where-in-the-world/static/css/main.40c6bf45.chunk.css",
+    "main.js": "/where-in-the-world/static/js/main.4f2a43a8.chunk.js",
+    "main.js.map": "/where-in-the-world/static/js/main.4f2a43a8.chunk.js.map",
+    "runtime-main.js": "/where-in-the-world/static/js/runtime-main.35d51dcf.js",
+    "runtime-main.js.map": "/where-in-the-world/static/js/runtime-main.35d51dcf.js.map",
+    "static/js/2.52d8fd9e.chunk.js": "/where-in-the-world/static/js/2.52d8fd9e.chunk.js",
+    "static/js/2.52d8fd9e.chunk.js.map": "/where-in-the-world/static/js/2.52d8fd9e.chunk.js.map",
+    "index.html": "/where-in-the-world/index.html",
+    "static/css/main.40c6bf45.chunk.css.map": "/where-in-the-world/static/css/main.40c6bf45.chunk.css.map",
+    "static/js/2.52d8fd9e.chunk.js.LICENSE.txt": "/where-in-the-world/static/js/2.52d8fd9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35d51dcf.js",
+    "static/js/2.52d8fd9e.chunk.js",
+    "static/css/main.40c6bf45.chunk.css",
+    "static/js/main.4f2a43a8.chunk.js"
+  ]
+}

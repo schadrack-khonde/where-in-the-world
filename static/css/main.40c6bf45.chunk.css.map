@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACI,QAAS,CACT,SAAU,CACV,qBACJ,CACA,KACI,YACJ,CACA,KACI,6BAEJ","file":"main.40c6bf45.chunk.css","sourcesContent":["*{\r\n    margin: 0;\r\n    padding: 0;\r\n    box-sizing: border-box;\r\n}\r\nhtml{\r\n    font-size: 16;\r\n}\r\nbody{\r\n    font-family: 'Lato',\r\n    sans-serif;\r\n}"]}
